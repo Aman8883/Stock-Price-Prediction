@@ -19,6 +19,8 @@ This project aims to predict future stock prices using Long Short-Term Memory (L
 - Matplotlib
 - Scikit-learn
 - TensorFlow (or other deep learning library)
+- yfinance
+- talib
 
 ## Installation
 
